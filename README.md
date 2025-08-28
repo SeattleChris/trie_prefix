@@ -17,6 +17,8 @@ Returns
 
 * int[]: the results of each find operation
 
+Additional data structure code is not provided for this problem.
+
 ## Constraints
 
 * 1<= n <= 10^5
